@@ -9,11 +9,7 @@ This is a Power BI dashboard project focused on analyzing movie industry data in
 - Analysis of top-grossing films
 - Year-over-year trends in revenue and movie releases
 - Interactive filters for dynamic exploration
-
-## 📁 File
-
-- `PowerBI movie dashboard.pbix` – Power BI report file
-
+- 
 ## 🛠 Tools Used
 
 - Power BI Desktop
