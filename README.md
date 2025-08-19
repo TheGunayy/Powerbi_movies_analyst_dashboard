@@ -1,4 +1,4 @@
-## 🎬 Power BI Movies Dashboard
+## 🎬 Movies Analysis Dashboard
 
 This is a Power BI dashboard project focused on analyzing movie industry data including genres, ratings, and revenue metrics.
 
